@@ -56,6 +56,22 @@ public class Sketch extends PApplet {
    * Called repeatedly, anything drawn to the screen goes here
    */
 
+  /**
+   * Draws snowball
+   * 
+   * @param blnPressDown boolean of down arrow key pressed
+   * @param blnPressUp boolean of up arrow key pressed
+   * @param intCircleYSpeed y speed of circle
+   * @param circleX x-coordinate of the ellipse
+   * @param circleY y-coordinate of the ellipse
+   * @param intPlayerX x-coordinate of user
+   * @param intPlayerY y-coordinate of user
+   * @param blnCharW boolean of W key pressed
+   * @param blnCharA boolean of A key pressed
+   * @param blnCharS boolean of S key pressed
+   * @param blnCharD boolean of D key pressed
+   */
+
   public void draw() {
     background(130, 180, 240);
 
