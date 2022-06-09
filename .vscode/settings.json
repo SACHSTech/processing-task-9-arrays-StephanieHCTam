@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/Cindy/Desktop/Comp Sci/mac_core.jar"
+    ]
+}
